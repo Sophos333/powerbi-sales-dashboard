@@ -8,17 +8,17 @@ A sleek and interactive sales dashboard built in **Power BI**, featuring dynamic
 
 Here’s a look at the dashboard layout and visuals:
 
-### 📌 Overview  
-![Dashboard Overview](./Screenshot%202025-05-01%20160406.png)
+### 📌 Full Dashboard Overview  
+![Full Dashboard Overview](./Screenshot%202025-05-01%20160238.png)
 
-### 💰 Total Sales Breakdown  
-![Total Sales](./Screenshot%202025-05-01%20160423.png)
+### 📈 Monthly Sales vs. Profit Performance  
+![Monthly Sales vs. Profit](./Screenshot%202025-05-01%20160406.png)
 
-### 📈 Monthly Sales & Profit Performance  
-![Monthly Sales](./Screenshot%202025-05-01%20160238.png)
+### 💰 Sales by Segment (Pie Chart)  
+![Sales by Segment](./Screenshot%202025-05-01%20160423.png)
 
-### 🧩 Sales by Segment  
-![Sales by Segment](./Screenshot%202025-05-01%20160341.png)
+### 📊 Total Sales by Segment (Bar Chart)  
+![Total Sales](./Screenshot%202025-05-01%20160341.png)
 
 ---
 
